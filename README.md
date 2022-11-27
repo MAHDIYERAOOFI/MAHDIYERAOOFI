@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @MAHDIYERAOOFI
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-MAHDIYERAOOFI/MAHDIYERAOOFI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @Mahdiyeraoofi
+- 👀 I’m interested in I am interested in research in the field of making 3D scanners
+- 🌱 I’m currently learning how to make 3D scanners
+- 💞️ I’m looking to collaborate on in the field of making portable 3D scanners
+- 📫 How to reach me?
+- My Email Address:mahdiyeraoofi2017@gmail.com
