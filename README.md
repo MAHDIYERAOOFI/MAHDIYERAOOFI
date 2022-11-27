@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mahdiyeraoofi
-- 👀 I’m interested in I am interested in research in the field of making 3D scanners
+- 👀 I’m interested in research in the field of making 3D scanners
 - 🌱 I’m currently learning how to make 3D scanners
 - 💞️ I’m looking to collaborate on in the field of making portable 3D scanners
 - 📫 How to reach me?
